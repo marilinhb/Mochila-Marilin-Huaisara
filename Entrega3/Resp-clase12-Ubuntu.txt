@@ -1,0 +1,28 @@
+Clase 12 Ubuntu
+
+Investigar y contestar las siguientes preguntas:
+
+1. ¿Que es un usuario root en Linux?:
+El usuario root en Linux es una cuenta predeterminada que tiene privilegios
+de acceso a todos los ficheros y comandos del sistema. El usuario root Linux
+es el superusuario que más privilegios tiene en Linux
+
+2. ¿Por qué ubuntu no me deja establecer la contraseña durante la
+instalación?:
+Políticas de seguridad: Ubuntu puede tener políticas de seguridad que
+requieren una contraseña segura con ciertos requisitos, como una longitud
+mínima, uso de caracteres especiales, combinación de letras y números, etc.
+Si la contraseña que estás intentando establecer no cumple con estos
+requisitos, es posible que no se te permita continuar hasta que ingreses una
+contraseña que cumpla con los criterios de seguridad establecidos.
+
+Nombre de usuario predeterminado: En algunas versiones de Ubuntu,
+durante la instalación se te pedirá que ingreses un nombre de usuario y,
+posteriormente, se generará automáticamente una contraseña para ese
+usuario. En lugar de establecer una contraseña manualmente, se te
+proporcionará una generada automáticamente.
+
+Problemas técnicos: También es posible que haya un problema técnico
+durante la instalación que esté impidiendo que se establezca la contraseña
+correctamente. Esto podría estar relacionado con errores en el sistema o un
+fallo en el programa de instalación.
